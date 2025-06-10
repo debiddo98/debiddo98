@@ -60,12 +60,12 @@ Technologies used: `Python`, `Pandas`, `Matplotlib`, `Kaggle datasets`.
 📝 [View Full Project](___)
 
 ---
--->
+
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debiddo98&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debiddo98&layout=compact&theme=radical)
-
+-->
 ---
 
 ### 🤝 Let's Connect
