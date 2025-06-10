@@ -65,9 +65,9 @@ Technologies used: `Python`, `Pandas`, `Matplotlib`, `Kaggle datasets`.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debiddo98&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debiddo98&layout=compact&theme=radical)
--->
----
 
+---
+-->
 ### 🤝 Let's Connect
 
 - 📬 Email: layosadionedavid@gmail.com
